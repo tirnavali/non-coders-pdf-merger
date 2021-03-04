@@ -1,3 +1,4 @@
+# Non-coders' PDF merge
 1. Install ruby from  https://www.ruby-lang.org
 2. Open terminal or console and write 
 
