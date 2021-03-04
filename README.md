@@ -16,8 +16,8 @@
 
 
 # Kodlama bilmeyenler için PDF birleştirme aracı
-1. https://www.ruby-lang.org/tr/ adresinde ruby yükleyiniz.
-2. Konsolu veya terminali açın (cmd) aşağıdakini yazınız
+1. https://www.ruby-lang.org/tr/ adresinden ruby yükleyiniz.
+2. Konsolu veya terminali açınız ve aşağıdakini yazınız.
 
 	__gem install hexapdf__
 3. Bir kalsör oluşturup içerisinde birleştirmek istediğiniz PDF dosyalarınızı atınız.
@@ -25,7 +25,7 @@
 
    Örnek : *01.pdf 02.pdf 03.pdf*
 5. Bu projedeki __merger.rb__ dosyasını kendi klasörünüze indiriniz.
-6. Konsolu veya terminali açın (cmd) aşağıdakini yazınız.
+6. Konsolu veya terminali açınız (bas windows + R tuşuna sonra yaz cmd | linuxta ctrl + alt + t) ve aşağıdakini yazınız.
 
 	__ruby merger.rb__
 7. Enter'a basınız.
